@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628339953472",
+    "project_id": "dailyroast-460e9",
+    "storage_bucket": "dailyroast-460e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628339953472:android:3156f93c478816a4c9f4a5",
+        "android_client_info": {
+          "package_name": "com.example.tallerandroidsena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQI62lsr4Qz9fJnVnzWlbim4Ot6uuqpFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
